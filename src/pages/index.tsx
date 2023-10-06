@@ -28,7 +28,6 @@ export default function Home(): JSX.Element {
                                       <ContentBlock key={idx} {...props} />
                                   ))}{" "}
                           </div>
-
                   <br/>
                   <p style={{ fontWeight: '300', textAlign:'center', padding: '10px 0', fontSize:'16px' }}>Tip: search everywhere with <code>Ctrl+K</code> hotkey</p>
               </div>
